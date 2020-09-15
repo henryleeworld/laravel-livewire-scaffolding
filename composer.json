@@ -12,11 +12,11 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "laravel/framework": "^8.0",
-        "laravel/jetstream": "^1.1",
+        "laravel/framework": "^8.2",
+        "laravel/jetstream": "^1.2",
         "laravel/sanctum": "^2.6",
         "laravel/tinker": "^2.4",
-        "livewire/livewire": "^2.0"
+        "livewire/livewire": "^2.2"
     },
     "require-dev": {
         "facade/ignition": "^2.3.7",
