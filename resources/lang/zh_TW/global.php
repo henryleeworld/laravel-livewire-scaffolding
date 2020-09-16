@@ -34,7 +34,7 @@ return [
         'title' => '登出',
     ],
     'profile' => [
-        'title' => 'Profile',
+        'title' => '個人資料',
     ],
     'register' => [
         'title'   => '註冊',
