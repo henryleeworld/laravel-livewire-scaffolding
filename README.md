@@ -1,4 +1,4 @@
-# Laravel 8 Livewire 支架
+# Laravel 9 Livewire 支架
 
 Livewire 是 Laravel 的全端框架，可簡化建構動態介面的過程，目的就是為了減少開發者在前後端溝通時要花費的工夫。
 
