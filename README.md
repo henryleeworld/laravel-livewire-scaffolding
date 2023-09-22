@@ -1,4 +1,4 @@
-# Laravel 9 Livewire 支架
+# Laravel 10 Livewire 支架
 
 Livewire 是 Laravel 的全端框架，可簡化建構動態介面的過程，目的就是為了減少開發者在前後端溝通時要花費的工夫。
 
@@ -20,9 +20,13 @@ $ php artisan key:generate
 ```sh
 $ php artisan migrate
 ```
-- 執行安裝 Laravel Mix 引用的依賴項目，並執行所有 Mix 任務。
+- 執行安裝 Vite 和 Laravel 擴充套件引用的依賴項目。
 ```sh
-$ npm install && npm run dev
+$ npm install
+```
+- 執行正式環境版本化資源管道並編譯。
+```sh
+$ npm run build
 ```
 - 在瀏覽器中輸入已定義的路由 URL 來訪問，例如：http://127.0.0.1:8000。
 - 你可以經由 `/register` 來進行註冊。
@@ -31,11 +35,11 @@ $ npm install && npm run dev
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/9JgCDNg.png)
+![](https://i.imgur.com/viwEYD1.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/L3jGB2T.png)
+![](https://i.imgur.com/FDcGOCa.png)
 > 使用現有的帳號登入後，進入預設歡迎頁面
 
-![](https://i.imgur.com/jAM41Gw.png)
+![](https://i.imgur.com/NDHDNKi.png)
 > 管理使用者的個人資料和聯絡資訊
