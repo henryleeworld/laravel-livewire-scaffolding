@@ -35,11 +35,11 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/viwEYD1.png)
+![](https://i.imgur.com/9zSR76g.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/FDcGOCa.png)
+![](https://i.imgur.com/lUdZFQq.png)
 > 使用現有的帳號登入後，進入預設歡迎頁面
 
-![](https://i.imgur.com/NDHDNKi.png)
+![](https://i.imgur.com/xB8edka.png)
 > 管理使用者的個人資料和聯絡資訊
