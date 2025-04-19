@@ -1,4 +1,4 @@
-# Laravel 11 Livewire 支架
+# Laravel 12 Livewire 支架
 
 Livewire 是 Laravel 的全端框架，可簡化建構動態介面的過程，目的就是為了減少開發者在前後端溝通時要花費的工夫。
 
@@ -35,11 +35,11 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/65kYrYP.png)
+![](https://i.imgur.com/WhGvbhh.png)
 > 建立新的帳號
 
-![](https://i.imgur.com/owSYK5m.png)
+![](https://i.imgur.com/izz1vrY.png)
 > 使用現有的帳號登入後，進入預設歡迎頁面
 
-![](https://i.imgur.com/cVmfrOv.png)
+![](https://i.imgur.com/JAfnYGI.png)
 > 管理使用者的個人資料和聯絡資訊
